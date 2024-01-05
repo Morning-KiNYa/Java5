@@ -4,6 +4,7 @@ public class Main10 {
 	public static void printArray(int[] array) {
 		for (int element : array) {
 			System.out.println(element);
+			System.out.println(element);
 		}
 	}
 
